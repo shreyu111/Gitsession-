@@ -14,6 +14,7 @@ def index():
 
         }
     }
+# TODO: create CRUD apis for this app
 
 if __name__ == "__main__":
     app.run(debug=True)
